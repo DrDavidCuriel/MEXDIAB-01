@@ -41,8 +41,6 @@ https://ensanut.insp.mx
 
 - Python (pandas, scikit-learn, XGBoost, SHAP)
 - Folium / Plotly for interactive maps
-- DuckDB for data processing
-
 ## Author
 
 **David Curiel, MD**  
